@@ -33,6 +33,7 @@ ________________________________________
 
 
 Number	CharacterName	          What can this character do? 
+
 1	    PlayerShip	              He can steer left and right and collect food supplies.
  
 
@@ -42,9 +43,13 @@ Number	CharacterName	          What can this character do?
 ●	Hurdles, stones, bananas, coins, etc are non playing characters in the game.
 
 Number	CharacterName	    What can this character do? 
+
 1	    Astroids	        Can decrease the health of the PlayerShip
+
 2	    EnemyShips	        Can destroy the PlayerShip
+
 3	    Oxygen 	            Increase the health of the Player
+
 4	    Shield	            Special ability to Help the player to get rid of the enemies. 
 
 
